@@ -11,7 +11,7 @@ Para a primeira versão do sistema devemos implementar apenas 3 operações: **d
 - A operação de extrato deve listar todos os depósitos e saques realizados na conta. No fim da listagem deve ser exibido o saldo atual da conta. Se o extrato estiver em branco, exibir a mensagem: Não foram realizadas movimentações. Os valores devem ser exibidos utilizando o formato R$ xxx.xx. Exemplo: 1500.45 = R$ 1500.45
 
 ### Minhas contribuições para o projeto
-**Com o objetivo de me desafiar, busquei entregar um pouco mais do que foi pedido no progeto inicial.**
+**Com o objetivo de me desafiar, busquei entregar um pouco mais do que foi pedido no projeto inicial.**
 
 Além das operações de depósito, saque e extrato, adicionei ao MENU mais uma opção que chamei de RESUMO EXTRATO, dando ao correntista uma opção de extrato simplificado, apenas com as informações, Total depositado, Total Sacado e Saldo.
 
