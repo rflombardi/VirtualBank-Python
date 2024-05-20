@@ -35,7 +35,7 @@ Se precisar de ajuda, fique à vontade para entrar em contato comigo. Se estiver
 ### Minhas contribuições para o projeto V2
 **Assim como na primeira versão, busquei entregar um pouco mais do que foi pedido no projeto inicial.**
 
-Além do que já havia entregado a mais na V1 do sistema, adicionei ao MENU mais uma opção que chamei de EXTRATO CONSOLIDADO, dando ao correntista uma opção de extrato simplificado, apenas com as informações, Total depositado, Total Sacado e Saldo. Agora como uma função, o EXTRATO CONSOLIDADO informa ao uauário caso não haja nenhuma movimentação financeira.
+Além do que já havia entregado a mais na V1 do sistema, adicionei ao MENU mais uma opção que chamei de EXTRATO CONSOLIDADO, dando ao correntista uma opção de extrato simplificado, apenas com as informações, Total depositado, Total Sacado e Saldo. Agora como uma função, o EXTRATO CONSOLIDADO informa ao usuário caso não haja nenhuma movimentação financeira.
 
 Segue o [Link da V2 do sistema](https://github.com/rflombardi/VirtualBank-Python/blob/main/Desafio_sistema_bancario_v2.py)
 
