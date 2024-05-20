@@ -19,4 +19,4 @@ Adicionei também ao extrato DATA e HORA, deixando um pouco mais completa a expe
 
 Espero que este repositório ajude a você que está iniciando sua jornada em Python.
 
-Se precisar de ajuda, fique à vontade para entrar em contato comigo. Se estiver ao meu alcance, terei o enorme prazer em ajudar.
+Se precisar de ajuda, fique à vontade para entrar em contato comigo. Se estiver ao meu alcance, terei prazer em ajudar.
