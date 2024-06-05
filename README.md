@@ -23,6 +23,7 @@ conceitos financeiros e de segurança.**
 
 ✒️**Terceira Versão**
 
+- Atualizei a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código segue o modelo de classes UML.
 - Nesta versão, um pouco mais complexa, iniciei na Programação orientada a objeto (POO), modulando o código, facilitando o entendimento. Os dois conceitos chaves para aprender POO são: Classes e objetos.
 - Aqui temos um código mais modulado e organizado, permitindo sua expansão de uma maneira muito mais simples e profissional.
 
