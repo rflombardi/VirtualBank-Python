@@ -21,6 +21,11 @@ conceitos financeiros e de segurança.**
 
 - Vamos refatorar o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo. Vamos aplicar conceitos avançados de programação e criar soluções mais elegantes e eficientes utilizando Python.
 
+✒️**Terceira Versão**
+
+- Nesta versão, um pouco mais complexa, iniciei na Programação orientada a objeto (POO), modulando o código, facilitando o entendimento. Os dois conceitos chaves para aprender POO são: Classes e objetos.
+- Aqui temos um código mais modulado e organizado, permitindo sua expansão de uma maneira muito mais simples e profissional.
+
 ### Minhas contribuições para o projeto V1
 **Com o objetivo de me desafiar, busquei entregar um pouco mais do que foi pedido no projeto inicial.**
 
@@ -38,6 +43,11 @@ Se precisar de ajuda, fique à vontade para entrar em contato comigo. Se estiver
 Além do que já havia entregado a mais na V1 do sistema, adicionei ao MENU mais uma opção que chamei de EXTRATO CONSOLIDADO, dando ao correntista uma opção de extrato simplificado, apenas com as informações, Total depositado, Total Sacado e Saldo. Agora como uma função, o EXTRATO CONSOLIDADO informa ao usuário caso não haja nenhuma movimentação financeira.
 
 Segue o [Link da V2 do sistema](https://github.com/rflombardi/VirtualBank-Python/blob/main/Desafio_sistema_bancario_v2.py)
+
+### Minhas contribuições para o projeto V3
+**Mantive as melhorias que adicionei nas versões anteriores e foquei em aprender o conceito de Programação orientada a objeto, que embora seja a maneira correta de se programar, exigiu muito mais foco e dedicação.**
+
+segue o [Link da V3 do sistema](https://github.com/rflombardi/VirtualBank-Python/blob/a05d7b790102bf13e93945b47f541433b8ab0545/Desafio_sistema_bancario_v3.py)
 
 
 
