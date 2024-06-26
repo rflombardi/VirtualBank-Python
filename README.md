@@ -38,6 +38,8 @@ Espero que este repositório ajude a você que está iniciando sua jornada em Py
 
 Se precisar de ajuda, fique à vontade para entrar em contato comigo. Se estiver ao meu alcance, terei prazer em ajudar.
 
+Segue o [Link da V1 do sistema](https://github.com/rflombardi/VirtualBank-Python/blob/main/Desafio_sistema_bancario.py)
+
 ### Minhas contribuições para o projeto V2
 **Assim como na primeira versão, busquei entregar um pouco mais do que foi pedido no projeto inicial.**
 
